@@ -1,1 +1,1 @@
-This is low programming level readme.
+This is readme file of pointers_arrays
