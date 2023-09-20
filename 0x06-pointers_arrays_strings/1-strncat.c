@@ -1,4 +1,4 @@
-include "main.h"
+nclude "main.h"
 
 /**
  *  * *_strncat -  a function that concatenates two strings
