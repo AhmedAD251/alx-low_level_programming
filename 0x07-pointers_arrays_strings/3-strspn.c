@@ -6,7 +6,7 @@
  *    * @s: string.
  *     * @accept: bytes.
  *      * Return: unsigned int.
- *       */
+ */
 unsigned int _strspn(char *s, char *accept)
 {
 		unsigned int i, j;
